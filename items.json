@@ -1,0 +1,14 @@
+[
+  {
+    "id": "example-milk",
+    "name": "Full Cream Milk 3L",
+    "coles_url": "https://www.coles.com.au/product/REPLACE-WITH-YOUR-URL",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/REPLACE-WITH-YOUR-URL"
+  },
+  {
+    "id": "example-eggs",
+    "name": "Free Range Eggs 12pk",
+    "coles_url": "https://www.coles.com.au/product/REPLACE-WITH-YOUR-URL",
+    "woolworths_url": ""
+  }
+]
