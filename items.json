@@ -1,14 +1,178 @@
 [
   {
-    "id": "example-milk",
-    "name": "Full Cream Milk 3L",
-    "coles_url": "https://www.coles.com.au/product/REPLACE-WITH-YOUR-URL",
-    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/REPLACE-WITH-YOUR-URL"
+    "id": "rrd-sea-salt",
+    "name": "Red Rock Deli Sea Salt (assorted 10-pack has 2 Sea Salt)",
+    "coles_url": "https://www.coles.com.au/product/red-rock-deli-potato-chips-lunchbox-snacks-multipack-assorted-10-pack-280g-6307108",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/299946/red-rock-deli-potato-chips-multipack-variety-deli-style",
+    "units": 10,
+    "notes": "Assorted 10-pack (contains 2x Sea Salt + others). Divide by 10 for average per-packet."
   },
   {
-    "id": "example-eggs",
-    "name": "Free Range Eggs 12pk",
-    "coles_url": "https://www.coles.com.au/product/REPLACE-WITH-YOUR-URL",
-    "woolworths_url": ""
+    "id": "rrd-sweet-chilli",
+    "name": "Red Rock Deli Sweet Chilli & Sour Cream 5-pack 140g",
+    "coles_url": "https://www.coles.com.au/product/red-rock-deli-potato-chips-lunchbox-snacks-multipack-sweet-chilli-5-pack-140g-3995784",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/134650/red-rock-deli-potato-chips-multipack-of-5-sweet-chilli-sour-cream",
+    "units": 5,
+    "notes": ""
+  },
+  {
+    "id": "rrd-honey-soy",
+    "name": "Red Rock Deli Honey Soy Chicken 5-pack 140g",
+    "coles_url": "https://www.coles.com.au/product/red-rock-deli-potato-chips-honey-soy-chicken-multipack-5-pack-140g-3995773",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/136040/red-rock-deli-potato-chips-multipack-honey-soy-chicken",
+    "units": 5,
+    "notes": ""
+  },
+  {
+    "id": "kitkat",
+    "name": "KitKat Milk Chocolate Value Share Pack 18 pieces 306g",
+    "coles_url": "https://www.coles.com.au/product/nestle-kitkat-milk-chocolate-value-share-pack-18-pieces-306g-3768250",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/802635/nestle-kitkat-large-share-pack",
+    "units": 18,
+    "notes": "Both URLs are the 18-piece 306g share pack (17g pieces)."
+  },
+  {
+    "id": "snickers",
+    "name": "Snickers Fun Size Party Share Bag 12 pieces 180g",
+    "coles_url": "https://www.coles.com.au/product/snickers-chocolate-party-share-bag-12-pieces-180g-5369879",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/206889/snickers-halloween-chocolate-party-share-bag-12-pieces",
+    "units": 12,
+    "notes": "Both URLs are the 12-piece 180g bag (15g pieces)."
+  },
+  {
+    "id": "cadbury-dairy-milk",
+    "name": "Cadbury Dairy Milk Sharepack 12 pack 144g",
+    "coles_url": "https://www.coles.com.au/product/cadbury-dairy-milk-chocolate-sharepack-12-pack-144g-3768840",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/87145/cadbury-dairy-milk-chocolate-sharepack-12-pack",
+    "units": 12,
+    "notes": ""
+  },
+  {
+    "id": "mn-caramel",
+    "name": "Muscle Nation Choclt Cheesecake Caramel 50g (single bar)",
+    "coles_url": "",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/913539/muscle-nation-x-choclt-cheesecake-protein-bar-caramel",
+    "units": 1,
+    "notes": "No supermarket multipack; sold as single 50g bar. Coles carries it in-store but has no dedicated URL."
+  },
+  {
+    "id": "mn-pistachio",
+    "name": "Muscle Nation Pistachio Papi Cheesecake 50g (single bar)",
+    "coles_url": "",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/79375/muscle-nation-pistachio-protein-bar",
+    "units": 1,
+    "notes": "No supermarket multipack; sold as single 50g bar."
+  },
+  {
+    "id": "kinder-bueno",
+    "name": "Kinder Bueno Mini Share Bag (18 pieces)",
+    "coles_url": "https://www.coles.com.au/product/kinder-bueno-mini-chocolate-97g-7051939",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/580701/kinder-bueno-mini-sharepack",
+    "units": 18,
+    "notes": "Mini 5.4g pieces, not 43g full bars. Woolies pack is 108g/18pc, Coles is 97g/18pc."
+  },
+  {
+    "id": "coca-cola",
+    "name": "Coca-Cola Classic 24 x 375mL cans",
+    "coles_url": "https://www.coles.com.au/product/coca-cola-classic-soft-drink-multipack-cans-375ml-24-pack-7365777",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/42605/coca-cola-classic-soft-drink-multipack-cans",
+    "units": 24,
+    "notes": ""
+  },
+  {
+    "id": "sprite",
+    "name": "Sprite Lemonade 24 x 375mL cans",
+    "coles_url": "https://www.coles.com.au/product/sprite-lemonade-soft-drink-cans-24x375ml-24-pack-7365904",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/370739/sprite-lemonade-soft-drink-cans",
+    "units": 24,
+    "notes": ""
+  },
+  {
+    "id": "fanta",
+    "name": "Fanta Orange 24 x 375mL cans",
+    "coles_url": "https://www.coles.com.au/product/fanta-orange-soft-drink-cans-24x375ml-24-pack-5325873",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/370743/coca-cola-fanta-orange-cans",
+    "units": 24,
+    "notes": "CSV asked for 275mL; only 375mL exists in supermarket multipacks."
+  },
+  {
+    "id": "redbull-original",
+    "name": "Red Bull Energy Drink Original 4 x 250mL",
+    "coles_url": "https://www.coles.com.au/product/red-bull-energy-drink-original-4x250ml-1l-9043363",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/162609/red-bull-energy-drink",
+    "units": 4,
+    "notes": ""
+  },
+  {
+    "id": "redbull-duplicate",
+    "name": "Red Bull (duplicate row in CSV) \u2014 same as redbull-original",
+    "coles_url": "https://www.coles.com.au/product/red-bull-energy-drink-original-4x250ml-1l-9043363",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/162609/red-bull-energy-drink",
+    "units": 4,
+    "notes": "Your CSV had two REDBULL rows; delete this if not needed."
+  },
+  {
+    "id": "v-energy",
+    "name": "V Energy Drink Original 4 x 250mL",
+    "coles_url": "https://www.coles.com.au/product/v-original-energy-drink-4x250ml-4-pack-8737163",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/132815/v-original-guarana-energy-drink",
+    "units": 4,
+    "notes": ""
+  },
+  {
+    "id": "lipton-peach",
+    "name": "Lipton Peach Ice Tea 500mL bottle",
+    "coles_url": "https://www.coles.com.au/product/lipton-ice-tea-peach-tea-iced-tea-bottle-500ml-9446315",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/201689/lipton-ice-tea-peach-tea-iced-tea-bottle-ice-tea",
+    "units": 1,
+    "notes": "Single 500mL bottle; no multipack in this size."
+  },
+  {
+    "id": "oxyshred-bahama",
+    "name": "OxyShred Ultra Energy Bahama Breeze 355mL",
+    "coles_url": "https://www.coles.com.au/product/oxyshred-ultra-energy-bahama-breeze-355ml-8842383",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/6056800/oxyshred-energy-drink-bahama-breeze",
+    "units": 1,
+    "notes": "Sold as single cans only."
+  },
+  {
+    "id": "oxyshred-passionfruit",
+    "name": "OxyShred Ultra Energy Passionfruit 355mL",
+    "coles_url": "https://www.coles.com.au/product/oxyshred-ultra-energy-passionfruit-355ml-8092217",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/230703/oxyshred-ultra-energy-zero-sugar-passionfruit-can",
+    "units": 1,
+    "notes": "Sold as single cans only."
+  },
+  {
+    "id": "powerade-mountain-blast",
+    "name": "Powerade Mountain Blast 600mL bottle",
+    "coles_url": "https://www.coles.com.au/product/powerade-ion4-mountain-blast-sports-drink-sipper-cap-600ml-1726056",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/365190/powerade-ion4-mountain-blast-sports-drink-sipper-cap",
+    "units": 1,
+    "notes": ""
+  },
+  {
+    "id": "monster-mango",
+    "name": "Monster Energy Mango Loco 4 x 500mL",
+    "coles_url": "https://www.coles.com.au/product/monster-energy-mango-loco-multipack-cans-500ml-4-pack-3290712",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/708119/monster-energy-juice-mango-loco",
+    "units": 4,
+    "notes": ""
+  },
+  {
+    "id": "monster-zero-ultra",
+    "name": "Monster Energy Ultra 4 x 500mL (Zero Sugar)",
+    "coles_url": "https://www.coles.com.au/product/monster-energy-drink-ultra-4x500ml-2l-2785108",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/511504/monster-energy-ultra-multipack-cans",
+    "units": 4,
+    "notes": ""
+  },
+  {
+    "id": "monster-rio-punch",
+    "name": "Monster Rio Punch \u2014 NOT AT SUPERMARKETS (using Green 4-pack as proxy)",
+    "coles_url": "https://www.coles.com.au/product/monster-energy-green-multipack-cans-4-x-500ml-4-pack-2785094",
+    "woolworths_url": "https://www.woolworths.com.au/shop/productdetails/361734/monster-energy-green-multipack-cans",
+    "units": 4,
+    "notes": "Rio Punch (a Monster Juiced flavour) not stocked at Coles/Woolies as a multipack. Green Monster 4-pack used as a proxy for Monster wholesale pricing signals."
   }
 ]
