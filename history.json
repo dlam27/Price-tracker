@@ -1,0 +1,90 @@
+{
+  "rrd-sea-salt": {
+    "name": "Red Rock Deli Sea Salt (assorted 10-pack has 2 Sea Salt)",
+    "snapshots": []
+  },
+  "rrd-sweet-chilli": {
+    "name": "Red Rock Deli Sweet Chilli & Sour Cream 5-pack 140g",
+    "snapshots": []
+  },
+  "rrd-honey-soy": {
+    "name": "Red Rock Deli Honey Soy Chicken 5-pack 140g",
+    "snapshots": []
+  },
+  "kitkat": {
+    "name": "KitKat Milk Chocolate Value Share Pack 18 pieces 306g",
+    "snapshots": []
+  },
+  "snickers": {
+    "name": "Snickers Fun Size Party Share Bag 12 pieces 180g",
+    "snapshots": []
+  },
+  "cadbury-dairy-milk": {
+    "name": "Cadbury Dairy Milk Sharepack 12 pack 144g",
+    "snapshots": []
+  },
+  "mn-caramel": {
+    "name": "Muscle Nation Choclt Cheesecake Caramel 50g (single bar)",
+    "snapshots": []
+  },
+  "mn-pistachio": {
+    "name": "Muscle Nation Pistachio Papi Cheesecake 50g (single bar)",
+    "snapshots": []
+  },
+  "kinder-bueno": {
+    "name": "Kinder Bueno Mini Share Bag (18 pieces)",
+    "snapshots": []
+  },
+  "coca-cola": {
+    "name": "Coca-Cola Classic 24 x 375mL cans",
+    "snapshots": []
+  },
+  "sprite": {
+    "name": "Sprite Lemonade 24 x 375mL cans",
+    "snapshots": []
+  },
+  "fanta": {
+    "name": "Fanta Orange 24 x 375mL cans",
+    "snapshots": []
+  },
+  "redbull-original": {
+    "name": "Red Bull Energy Drink Original 4 x 250mL",
+    "snapshots": []
+  },
+  "redbull-duplicate": {
+    "name": "Red Bull (duplicate row in CSV) \u2014 same as redbull-original",
+    "snapshots": []
+  },
+  "v-energy": {
+    "name": "V Energy Drink Original 4 x 250mL",
+    "snapshots": []
+  },
+  "lipton-peach": {
+    "name": "Lipton Peach Ice Tea 500mL bottle",
+    "snapshots": []
+  },
+  "oxyshred-bahama": {
+    "name": "OxyShred Ultra Energy Bahama Breeze 355mL",
+    "snapshots": []
+  },
+  "oxyshred-passionfruit": {
+    "name": "OxyShred Ultra Energy Passionfruit 355mL",
+    "snapshots": []
+  },
+  "powerade-mountain-blast": {
+    "name": "Powerade Mountain Blast 600mL bottle",
+    "snapshots": []
+  },
+  "monster-mango": {
+    "name": "Monster Energy Mango Loco 4 x 500mL",
+    "snapshots": []
+  },
+  "monster-zero-ultra": {
+    "name": "Monster Energy Ultra 4 x 500mL (Zero Sugar)",
+    "snapshots": []
+  },
+  "monster-rio-punch": {
+    "name": "Monster Rio Punch \u2014 NOT AT SUPERMARKETS (using Green 4-pack as proxy)",
+    "snapshots": []
+  }
+}
